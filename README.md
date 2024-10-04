@@ -1,6 +1,4 @@
-# Customer_Data
-Customer segmentation 
-# Final-Project
+# data analysis
 <h1>การวิเคราะห์การแบ่งกลุ่มลูกค้าโดยใช้เทคนิคการทำเหมืองข้อมูลในคลินิกทันตกรรม กรณีศึกษา คลินิกทันตกรรมXXX </h1>
  
 Youtube Video [https://youtu.be/xXANDAT0Frw?si=qR5rLSGULMmPI-hE]
